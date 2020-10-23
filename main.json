@@ -1,0 +1,66 @@
+{
+    "profile":{
+        "Name":"kamalesh Pitchuka",
+        "image":"images/2.jpg",
+        "email":"Gmail",
+        "soc_1":"Github",
+        "soc_2":"Instagram",
+        "soc_3":"LInkidean"
+    },
+    "careerobjective":{
+        "info":"To become a Software developer"
+
+    },
+    "educationqualification":[
+        {
+            "course":"Course",
+            "college":"College/University",
+            "passedout":"Year of Passing",
+            "percentage":"Percentage(CGPA)"
+
+        },
+        {
+            "course":"B.Tech/EEE",
+            "college":"S.R.K.R EngineeringCollege,BVRM",
+            "passedout":"2018",
+            "percentage":"7.12(CGPA)"
+
+        },
+        {
+            "course":"Intermediate",
+            "college":"Sasi Educational Institution, Velivennu.",
+            "passedout":"2014",
+            "percentage":"90.4%"
+
+
+        },
+        {
+            "course":"S.S.C",
+            "college":"Sasi E.M School, velivennu.",
+            "passedout":"2012",
+            "percentage":"7.8(GPA)"
+        }
+    ],
+    "techinicalskills":[
+        {
+            "info":"Programing Langauges",
+            "details":["Python,Django,SCSS,JavaScript"]
+        },
+        {
+            "info":"Softwares",
+            "details":["Ms-Office,Auto CAD,Figma,Vscode"]
+
+        }
+    ],
+    "otherskills":{
+        
+        "info":"EXTRA CIRCULAR ACTIVITIES:",
+        "details":{"0":"Participated in PCB Designing Workshop conducted by JNTUK" ,
+                   "1":"Participated in Model Expo conducted by Vishnu Institute of Technology"}
+    },
+    "lang":{
+            "info":"Cerificates in langauges and desine",
+            "details":{"0":"Electrical Desine","1":"Web Desine using Django"}
+        }
+    
+}

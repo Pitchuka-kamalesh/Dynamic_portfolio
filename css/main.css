@@ -1,0 +1,84 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC&family=Roboto+Mono:wght@600&display=swap");
+.header_area {
+  font-family: "Roboto Mono", monospace;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.container .child1 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: none;
+  border-bottom: auto;
+}
+
+.container .child1 img {
+  align-self: center;
+}
+
+.container .child1 h4 {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+}
+
+.container .child1 a {
+  font-family: "Roboto Mono", monospace;
+  text-decoration: none;
+  text-align: center;
+}
+
+.container .child1 a:hover {
+  text-decoration: nome;
+}
+
+.container .child1 a:focus {
+  text-decoration: nome;
+}
+
+.container .child2 {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  border: none;
+  font-family: "Noto Sans TC", sans-serif;
+}
+
+.container .child2 h1, .container .child2 h2, .container .child2 h3, .container .child2 h4, .container .child2 h5, .container .child2 h6 {
+  font-family: "Roboto Mono", monospace;
+  text-transform: capitalize;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.container .child2 .apple {
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  margin-bottom: 10px;
+}
+
+.container .child2 .apple table, .container .child2 .apple th, .container .child2 .apple td {
+  border: 1px solid teal;
+}
+
+.container .child2 .apple table {
+  width: inherit;
+  font-family: "Noto Sans TC", sans-serif;
+  text-align: center;
+  text-overflow: clip;
+}
+
+.container .child2 .apple table tr td {
+  padding: 0 10px;
+}
+/*# sourceMappingURL=main.css.map */
