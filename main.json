@@ -5,11 +5,7 @@
         "email":"Gmail",
         "soc_1":"Github",
         "soc_2":"Instagram",
-<<<<<<< HEAD
         "soc_3":"linkedin"
-=======
-        "soc_3":"LinkedIn"
->>>>>>> e0e6513f1d0eb521262567a6487f1f0ccae78f21
     },
     "careerobjective":{
         "info":"To become a Software developer"
